@@ -1,0 +1,7 @@
+{
+  "name": "mre--modal-controller",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
